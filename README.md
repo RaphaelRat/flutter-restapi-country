@@ -2,7 +2,7 @@
 
 <div>
     <a href="https://raphaelrat.github.io/flutter-restapi-country">
-        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Repository-brightgreen.svg">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Pages-brightgreen.svg">
     </a>
     <a href="https://medium.com/p/2460d90320aa/">
         <img alt="Medium" src="https://img.shields.io/badge/Medium-Article-blue.svg">
