@@ -20,7 +20,7 @@ class _HomePageState extends State<HomePage> {
   bool showSearchField = false;
   SortType sortType = SortType.name;
   final _gitUrl =
-      Uri.parse('https://www.google.com');
+      Uri.parse('https://github.com/RaphaelRat/flutter-restapi-country/');
 
   @override
   void initState() {

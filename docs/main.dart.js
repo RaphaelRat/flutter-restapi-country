@@ -76299,7 +76299,7 @@ return A.U($async$ka,r)}}
 A.yj.prototype={
 D(){return"SortType."+this.b}}
 A.vv.prototype={
-ao(){return new A.A6(B.fL,A.k4("https://www.google.com",0,null),B.k)}}
+ao(){return new A.A6(B.fL,A.k4("https://github.com/RaphaelRat/flutter-restapi-country/",0,null),B.k)}}
 A.A6.prototype={
 aI(){this.aX()
 this.x7()},
