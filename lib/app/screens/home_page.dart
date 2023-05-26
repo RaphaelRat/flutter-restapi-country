@@ -274,7 +274,7 @@ class _HomePageState extends State<HomePage> {
                         Expanded(child: Text(country.name?.common ?? 'No name')),
                         const SizedBox(width: 8),
                         Expanded(
-                          child: Text(country.capital != null && country.capital!.isNotEmpty ? country.capital!.elementAt(0) : 'No capital'),
+                          child: Text(country.capital != null && country.capital!.isNotEmpty ? country.capital!.first : 'No capital'),
                         ),
                         const SizedBox(width: 8),
                         Expanded(
@@ -282,7 +282,7 @@ class _HomePageState extends State<HomePage> {
                               ? country.continents!.length == 1
                                   ? country.continents!.first
                                   : country.continents.toString()
-                              : 'No borders'),
+                              : 'No continents'),
                         ),
                         const SizedBox(width: 8),
                         Expanded(
